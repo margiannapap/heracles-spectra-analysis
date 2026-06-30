@@ -1,4 +1,0 @@
-=== Dataset Statistics (Redshift Slice) ===
-Number of galaxies found: 2543014
-Mean Redshift (ZTRUE): 0.6250
-Mean Ellipticity (E1): -0.0000
